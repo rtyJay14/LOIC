@@ -290,7 +290,7 @@ fireInterval = setInterval(makeHttpRequest, (1000 / parseInt(rpsNode.value) | 0)
 
 //Cambiar Target y descomentar la funcion FireIbero();
 
-document.getElementById("targetURL").value = "http://www.justice.gov";
+document.getElementById("targetURL").value = "#";
 
 FireIbero();
 
@@ -308,7 +308,7 @@ FireIbero();
 
 <script>
 
-alert("#OpMegaupload target: http://www.justice.gov
+alert("#OpMegaupload target: #");
 
 </script>
 
