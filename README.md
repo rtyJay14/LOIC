@@ -1,4 +1,6 @@
 LOIC
 ====
 
-LOIC - Javascript
+LOIC - Javascript LOIC
+====
+Elite Stresser
