@@ -14,3 +14,7 @@ https://check-host.net/check-http?host=
 http://www.downforeveryoneorjustme.com/
 ====
 https://builtwith.com/
+====
+Hash Decryptor
+https://hashkiller.co.uk/md5-decrypter.aspx
+====
