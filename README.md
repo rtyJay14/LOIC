@@ -22,3 +22,5 @@ https://builtwith.com/
 Hash Decryptor
 https://hashkiller.co.uk/md5-decrypter.aspx
 ====
+http://www.kitploit.com/search/label/SQLi
+==
