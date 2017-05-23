@@ -25,10 +25,12 @@ https://hashkiller.co.uk/md5-decrypter.aspx
 http://www.kitploit.com/search/label/SQLi
 ====
 https://grabify.link/
-==
-https://grabify.link/track/OHLV0C
-==
-https://goo.gl/zvyYHH
+====
+Happyskincosmetics - https://goo.gl/zvyYHH https://grabify.link/track/OHLV0C
+====
+Nullbytes - https://goo.gl/a3gSqo https://grabify.link/track/TUENBR
+====
+Youtube - https://goo.gl/S7DkYF 	https://grabify.link/track/0B0A59
 ====
 http://www.vbooter.org test65:test65
 ====
