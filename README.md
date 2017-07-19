@@ -41,6 +41,5 @@ http://sizzy.co/ - responsive web/mobile development
 ====
 https://smarty-report.000webhostapp.com/login/index.php
 https://smarty-report.000webhostapp.com/login/users.html
-====
 jayson.nalus@journeytech.com.ph
 jjcn2015
