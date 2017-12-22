@@ -37,6 +37,7 @@ http://www.vbooter.org test65:test65
 Tor/Proxychain - http://www.behindthefirewalls.com/2013/06/anonymizing-your-attacks-with-tor-and.html
 ====
 http://sizzy.co/ - responsive web/mobile development
+http://www.vedbex.com/tools/stresser
 
 ====
 https://smarty-report.000webhostapp.com/login/index.php
